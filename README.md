@@ -61,6 +61,3 @@ O projeto também realiza validações dos campos obrigatórios e utiliza códig
 
 Para evitar a exposição direta das senhas nas respostas de consulta, os valores são substituídos por asteriscos. Entretanto, em uma aplicação real, é necessário armazenar as senhas de maneira segura, utilizando funções como `password_hash()` e `password_verify()`.
 
-## 4. Prints
-
-
